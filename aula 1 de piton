@@ -1,0 +1,9 @@
+#nome = input("Escreva o seu Nome")
+#idade = input("Escreva sua idade")
+#idade = int(idade)
+#print(f"Olá,{nome},você tem {idade} anos.")
+#try:
+    #idade=int (input("escreva a sua idade"))
+#except ValueError:
+  #print("Você não Digitou a sua idade")
+  
