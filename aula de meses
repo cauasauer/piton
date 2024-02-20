@@ -1,3 +1,5 @@
 meses = input("Digite um mês: ")
 
-if meses 
+if meses < ("dezembro", "janeiro", "fevereiro")
+    estação = "verão"
+else meses < ()
