@@ -1,5 +1,10 @@
 meses = input("Digite um mês: ")
 
-if meses < ("dezembro", "janeiro", "fevereiro")
-    estação = "verão"
-else meses < ()
+if meses in ("dezembro", "janeiro", "fevereiro"):
+    print (" A estação do mês é: verão")
+elif meses in ("março", "abril", "maio"):
+    print (" A estação do mês é: outono")
+elif meses in ("junho", "julho", "agosto"):
+    print ("A estação do mês é: inverno")
+elif meses in ("setembro", "outubro", "novembro"):
+    print ("A estação do mês é: primavera")
